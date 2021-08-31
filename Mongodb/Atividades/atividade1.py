@@ -109,7 +109,8 @@ if __name__ == "__main__":
         'moeda' : 'Dólar dos Estados Unidos e Balboa', 
         'idioma' : 'Língua castelhana' , 
     }
-    collection_name.insert_many([item_1, item_2, item_3, item_4, item_5, item_6, item_7, item_8, item_9,item_10])
+    '''
+    collection_name.insert_many([item_1, item_2, item_3, item_4, item_5, item_6, item_7, item_8, item_9,item_10])'''
 
 ############################ Ásia 15 ############################
 
@@ -245,9 +246,9 @@ if __name__ == "__main__":
         'idioma' : 'Malaio',
         'populacao': 433.285
     }
-
+    '''
     collection_name.insert_many([item_1, item_2, item_3, item_4, item_5, item_6, item_7, item_8, item_9,item_10, item_11, item_12, item_13, item_14, item_15])
-
+    '''
 
 ############################ África 20  ############################
     dbname = get_database()
@@ -420,11 +421,11 @@ if __name__ == "__main__":
             'idioma' : 'Francês',
             'populacao': 5.381
     }
-
-    collection_name.insert_many([item_1, item_2, item_3, item_4, item_5, item_6, item_7, item_8, item_9, item_10, item_11, item_12, item_13, item_14, item_15, item_16, item_17, item_18, item_19, item_20])
+    '''
+    collection_name.insert_many([item_1, item_2, item_3, item_4, item_5, item_6, item_7, item_8, item_9, item_10, item_11, item_12, item_13, item_14, item_15, item_16, item_17, item_18, item_19, item_20])'''
 
 ############################ Europa 15  ############################
-if __name__ == "__main__":
+#if __name__ == "__main__":
     dbname = get_database()
 
     collection_name = dbname["Europa"]
@@ -560,8 +561,6 @@ if __name__ == "__main__":
         'idioma' : 'Húngaro', 
         'populacao': 9.773
     }
-
+    '''
     collection_name.insert_many([item_1, item_2, item_3, item_4, item_5, item_6, item_7, item_8, item_9, item_10, item_11, item_12, item_13, item_14, item_15])
-
-
-
+    '''
