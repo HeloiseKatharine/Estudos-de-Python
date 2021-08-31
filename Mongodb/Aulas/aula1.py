@@ -5,7 +5,7 @@ def get_database():
     from pymongo import MongoClient
     import pymongo
 
-    CONNECTION_STRING = "mongodb+srv://user:jkgugA78@cluster1.bgw0k.mongodb.net/myFirstDatabase"
+    CONNECTION_STRING = "#"
     
     from pymongo import MongoClient
     client = MongoClient(CONNECTION_STRING)#conexão com o cliente
