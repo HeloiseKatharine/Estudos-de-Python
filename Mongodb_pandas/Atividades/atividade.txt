@@ -1,0 +1,8 @@
+SCRIPT CRUD MONGO
+•	Crie uma função cadastrar documento, onde seja possível inserir quantos campos forem necessários. Todos os campos devem ser do tipo string. Informe mensagem ao usuário que o documento foi cadastrado.
+•	Crie uma função que exiba todos os documentos da coleção.
+•	Crie uma função que atualialize apenas um item por id e que atualize todos os campos sendo esse campo dado pelo usuário.
+•	Crie uma função que delete o documento por ID.
+•	Crie uma função que delete todos os documento
+*Não é necessário CRIAR MENU no main, basta apenas chamar as funções.
+*Nas funções, podem ser usados MENUs, caso seja necessário.
