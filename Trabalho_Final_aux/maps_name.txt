@@ -1,0 +1,121 @@
+
+item_0 = {
+   'name' : 'Harvard University',
+    'location': { 'type': 'Point', 'coordinates': [ , ]}
+}
+item_1 = {
+   'name' : 'Stanford University',
+    'location': { 'type': 'Point', 'coordinates': [ , ]}
+}
+item_2 = {
+   'name' : 'Massachusetts Institute of Technology',
+    'location': { 'type': 'Point', 'coordinates': [ , ]}
+}
+item_3 = {
+   'name' : 'University of Cambridge',
+    'location': { 'type': 'Point', 'coordinates': [ , ]}
+}
+item_4 = {
+   'name' : 'University of Oxford',
+    'location': { 'type': 'Point', 'coordinates': [ , ]}
+}
+item_5 = {
+   'name' : 'Columbia University',
+    'location': { 'type': 'Point', 'coordinates': [ , ]}
+}
+item_6 = {
+   'name' : 'University of California, Berkeley',
+    'location': { 'type': 'Point', 'coordinates': [ , ]}
+}
+item_7 = {
+   'name' : 'University of Chicago',
+    'location': { 'type': 'Point', 'coordinates': [ , ]}
+}
+item_8 = {
+   'name' : 'Princeton University',
+    'location': { 'type': 'Point', 'coordinates': [ , ]}
+}
+item_9 = {
+   'name' : 'Cornell University',
+    'location': { 'type': 'Point', 'coordinates': [ , ]}
+}
+item_10 = {
+   'name' : 'Yale University',
+    'location': { 'type': 'Point', 'coordinates': [ , ]}
+}
+item_11 = {
+   'name' : 'California Institute of Technology',
+    'location': { 'type': 'Point', 'coordinates': [ , ]}
+}
+item_12 = {
+   'name' : 'University of Tokyo',
+    'location': { 'type': 'Point', 'coordinates': [ , ]}
+}
+item_13 = {
+   'name' : 'University of Pennsylvania',
+    'location': { 'type': 'Point', 'coordinates': [ , ]}
+}
+item_14 = {
+   'name' : 'University of California, Los Angeles',
+    'location': { 'type': 'Point', 'coordinates': [ , ]}
+}
+item_15 = {
+   'name' : 'Johns Hopkins University',
+    'location': { 'type': 'Point', 'coordinates': [ , ]}
+}
+item_16 = {
+   'name' : 'Kyoto University',
+    'location': { 'type': 'Point', 'coordinates': [ , ]}
+}
+item_17 = {
+   'name' : 'New York University',
+    'location': { 'type': 'Point', 'coordinates': [ , ]}
+}
+item_18 = {
+   'name' : 'University of Michigan, Ann Arbor',
+    'location': { 'type': 'Point', 'coordinates': [ , ]}
+}
+item_19 = {
+   'name' : 'Swiss Federal Institute of Technology in Zurich',
+    'location': { 'type': 'Point', 'coordinates': [ , ]}
+}
+item_20 = {
+   'name' : 'University of California, San Diego',
+    'location': { 'type': 'Point', 'coordinates': [ , ]}
+}
+item_21 = {
+   'name' : 'Northwestern University',
+    'location': { 'type': 'Point', 'coordinates': [ , ]}
+}
+item_22 = {
+   'name' : 'Hebrew University of Jerusalem',
+    'location': { 'type': 'Point', 'coordinates': [ , ]}
+}
+item_23 = {
+   'name' : 'Seoul National University',
+    'location': { 'type': 'Point', 'coordinates': [ , ]}
+}
+item_24 = {
+   'name' : 'University of Wisconsin–Madison',
+    'location': { 'type': 'Point', 'coordinates': [ , ]}
+}
+item_25 = {
+   'name' : 'University of California, San Francisco',
+    'location': { 'type': 'Point', 'coordinates': [ , ]}
+}
+item_26 = {
+   'name' : 'University College London',
+    'location': { 'type': 'Point', 'coordinates': [ , ]}
+}
+item_27 = {
+   'name' : 'Duke University',
+    'location': { 'type': 'Point', 'coordinates': [ , ]}
+}
+item_28 = {
+   'name' : 'Rockefeller University',
+    'location': { 'type': 'Point', 'coordinates': [ , ]}
+}
+item_29 = {
+   'name' : 'University of Texas at Austin',
+    'location': { 'type': 'Point', 'coordinates': [ , ]}
+}

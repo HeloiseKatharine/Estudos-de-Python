@@ -1,0 +1,3977 @@
+# [<longitude>, <latitude> ]
+
+item_0 = {
+   'name' : 'Harvard University',
+   'location': { 'type': 'Point', 'coordinates': [-71.116832866, 42.371331848]}
+
+#42.37710588880318, -71.11648843459513
+
+item_1 = {
+   'name' : 'Massachusetts Institute of Technology',
+   'location': { 'type': 'Point', 'coordinates': [-71.09304810305743 , 42.360356445250865]}
+
+item_2 = {
+   'name' : 'Stanford University',
+   'location': { 'type': 'Point', 'coordinates': [ -122.16925228590436, 37.42777269746988]}
+
+item_3 = {
+   'name' : 'University of Cambridge',
+   'location': { 'type': 'Point', 'coordinates': [ 0.11971794830629269,52.20326209483308]}
+
+item_4 = {
+   'name' : 'California Institute of Technology',
+   'location': { 'type': 'Point', 'coordinates': [-118.12356347888598 , 34.137896992681604]}
+
+item_5 = {
+   'name' : 'Princeton University',
+   'location': { 'type': 'Point', 'coordinates': [ -74.61453479986885,40.344431225888925 ]}
+
+item_6 = {
+   'name' : 'University of Oxford',
+   'location': { 'type': 'Point', 'coordinates': [ -1.2529533890490945,51.75520408982706 ]}
+
+item_7 = {
+   'name' : 'Yale University',
+   'location': { 'type': 'Point', 'coordinates': [ -72.92274269375169,41.31691765905514 ]}
+
+item_8 = {
+   'name' : 'Columbia University',
+   'location': { 'type': 'Point', 'coordinates': [ -73.96216202802943,40.807636611813834 ]}
+
+item_9 = {
+   'name' : 'University of California, Berkeley',
+   'location': { 'type': 'Point', 'coordinates': [-122.25881761213634 , 37.87238676213995]}
+
+item_10 = {
+   'name' : 'University of Chicago',
+   'location': { 'type': 'Point', 'coordinates': [-87.59829272648254 , 41.7887409039786]}
+
+item_11 = {
+   'name' : 'Cornell University',
+   'location': { 'type': 'Point', 'coordinates': [-76.47507074895404 ,42.452771761299765]}
+
+item_12 = {
+   'name' : 'University of Pennsylvania',
+   'location': { 'type': 'Point', 'coordinates': [ -75.19055893543786, 39.950752143479555]}
+
+item_13 = {
+   'name' : 'University of Tokyo',
+   'location': { 'type': 'Point', 'coordinates': [139.76266447457286 ,35.713008121889445 ]}
+
+item_14 = {
+   'name' : 'Johns Hopkins University',
+   'location': { 'type': 'Point', 'coordinates': [ -76.61799105476166,39.33044437630392 ]}
+
+item_15 = {
+   'name' : 'Swiss Federal Institute of Technology in Zurich',
+   'location': { 'type': 'Point', 'coordinates': [8.548248678977483 ,47.37664771855825 ]}
+
+item_16 = {
+   'name' : 'Kyoto University',
+   'location': { 'type': 'Point', 'coordinates': [135.78181423309914 ,35.02656506505538 ]}
+
+item_17 = {
+   'name' : 'Weizmann Institute of Science',
+   'location': { 'type': 'Point', 'coordinates': [34.8092234339324 ,31.904048102967455 ]}
+
+item_18 = {
+   'name' : 'University of California, Los Angeles',
+   'location': { 'type': 'Point', 'coordinates': [-118.44437403213342 ,34.06907783566165 ]}
+
+item_19 = {
+   'name' : 'University of California, San Diego',
+   'location': { 'type': 'Point', 'coordinates': [ -118.44401530140208,34.06935645352186 ]}
+
+item_20 = {
+   'name' : 'Rockefeller University',
+   'location': { 'type': 'Point', 'coordinates': [ -73.95576468166372,40.76285259943344 ]}
+
+item_21 = {
+   'name' : 'Hebrew University of Jerusalem',
+   'location': { 'type': 'Point', 'coordinates': [35.24110123733539 ,31.79488198081194 ]}
+
+item_22 = {
+   'name' : 'New York University',
+   'location': { 'type': 'Point', 'coordinates': [-73.98354970268933 ,40.6939191263751 ]}
+
+item_23 = {
+   'name' : 'University of California, San Francisco',
+   'location': { 'type': 'Point', 'coordinates': [ -117.23972162469579, 32.7161813947009]}
+
+item_24 = {
+   'name' : 'University of Wisconsin-Madison',
+   'location': { 'type': 'Point', 'coordinates': [-89.41159946612801 ,43.07677186118037 ]}
+
+item_25 = {
+   'name' : 'University of Illinois at Urbana-Champaign',
+   'location': { 'type': 'Point', 'coordinates': [-88.22561126187622 , 40.10226615126361]}
+
+item_26 = {
+   'name' : 'Duke University',
+   'location': { 'type': 'Point', 'coordinates': [-78.93743088921221 ,36.00160864647893]}
+
+item_27 = {
+   'name' : 'Imperial College London',
+   'location': { 'type': 'Point', 'coordinates': [ -0.17442198550864585,51.49891406895915 ]}
+
+item_28 = {
+   'name' : 'University of Texas Southwestern Medical Center',
+   'location': { 'type': 'Point', 'coordinates': [-96.83811896713803 ,32.812429001309134, ]}
+
+item_29 = {
+   'name' : 'University of Texas at Austin',
+   'location': { 'type': 'Point', 'coordinates': [ -96.80893753506004,32.81123275745848 ]}
+
+item_30 = {
+   'name' : 'University College London',
+   'location': { 'type': 'Point', 'coordinates': [ -0.1341573342153393, 51.524901174217064]}
+
+item_31 = {
+   'name' : 'Osaka University',
+   'location': { 'type': 'Point', 'coordinates': [135.52592542090164, 34.822393663006096]}
+
+item_32 = {
+   'name' : 'Northwestern University',
+   'location': { 'type': 'Point', 'coordinates': [42.05670094961829, -87.67493235641166]}
+
+#####################################################################################################
+
+item_33 = {
+   'name' : 'University of Michigan, Ann Arbor',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_34 = {
+   'name' : 'University of Toronto',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_35 = {
+   'name' : 'University of North Carolina at Chapel Hill',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_36 = {
+   'name' : 'Washington University in St. Louis',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_37 = {
+   'name' : 'University of Utah',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_38 = {
+   'name' : 'University of Washington - Seattle',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_39 = {
+   'name' : 'University of California, Santa Barbara',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_40 = {
+   'name' : 'McGill University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_41 = {
+   'name' : 'Purdue University, West Lafayette',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_42 = {
+   'name' : 'Carnegie Mellon University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_43 = {
+   'name' : 'University of Southern California',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_44 = {
+   'name' : 'University of California, Davis',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_45 = {
+   'name' : 'University of Colorado Boulder',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_46 = {
+   'name' : 'University of California, Irvine',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_47 = {
+   'name' : 'University of Paris-Sud',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_48 = {
+   'name' : 'University of Minnesota, Twin Cities',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_49 = {
+   'name' : 'University of Arizona',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_50 = {
+   'name' : 'Technion � Israel Institute of Technology',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_51 = {
+   'name' : 'Ohio State University, Columbus',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_52 = {
+   'name' : 'University of Rochester',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_53 = {
+   'name' : '�cole normale sup�rieure - Paris',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_54 = {
+   'name' : 'University of Florida',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_55 = {
+   'name' : 'Tel Aviv University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_56 = {
+   'name' : 'Rice University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_57 = {
+   'name' : 'Dartmouth College',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_58 = {
+   'name' : 'Vanderbilt University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_59 = {
+   'name' : 'University of Edinburgh',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_60 = {
+   'name' : '�cole Polytechnique',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_61 = {
+   'name' : 'Boston University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_62 = {
+   'name' : 'Pierre-and-Marie-Curie University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_63 = {
+   'name' : 'Pennsylvania State University, University Park',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_64 = {
+   'name' : 'University of Geneva',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_65 = {
+   'name' : 'Brown University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_66 = {
+   'name' : 'University of British Columbia',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_67 = {
+   'name' : 'University of Maryland, College Park',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_68 = {
+   'name' : 'Swiss Federal Institute of Technology in Lausanne',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_69 = {
+   'name' : 'Karolinska Institute',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_70 = {
+   'name' : 'University of Pittsburgh - Pittsburgh Campus',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_71 = {
+   'name' : 'Rutgers University-New Brunswick',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_72 = {
+   'name' : 'Texas A&M University, College Station',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_73 = {
+   'name' : 'Nagoya University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_74 = {
+   'name' : 'Seoul National University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_75 = {
+   'name' : 'University of Manchester',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_76 = {
+   'name' : 'Sapienza University of Rome',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_77 = {
+   'name' : 'Case Western Reserve University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_78 = {
+   'name' : 'Tohoku University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_79 = {
+   'name' : 'Arizona State University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_80 = {
+   'name' : 'Emory University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_81 = {
+   'name' : 'Ruprecht Karl University of Heidelberg',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_82 = {
+   'name' : 'Ludwig Maximilian University of Munich',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_83 = {
+   'name' : 'University of Virginia',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_84 = {
+   'name' : 'Leiden University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_85 = {
+   'name' : 'Tufts University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_86 = {
+   'name' : 'Georgia Institute of Technology',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_87 = {
+   'name' : 'University of Zurich',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_88 = {
+   'name' : 'University of Helsinki',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_89 = {
+   'name' : 'Technical University of Munich',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_90 = {
+   'name' : 'University of Oslo',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_91 = {
+   'name' : 'University of Queensland',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_92 = {
+   'name' : 'University of Copenhagen',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_93 = {
+   'name' : 'University of Sydney',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_94 = {
+   'name' : 'Williams College',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_95 = {
+   'name' : 'University of Texas MD Anderson Cancer Center',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_96 = {
+   'name' : 'University of Nottingham',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_97 = {
+   'name' : 'University of Bristol',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_98 = {
+   'name' : 'Utrecht University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_99 = {
+   'name' : 'Mines ParisTech',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_100 = {
+   'name' : 'Harvard University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_101 = {
+   'name' : 'Stanford University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_102 = {
+   'name' : 'University of Oxford',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_103 = {
+   'name' : 'Massachusetts Institute of Technology',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_104 = {
+   'name' : 'University of Cambridge',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_105 = {
+   'name' : 'Columbia University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_106 = {
+   'name' : 'University of California, Berkeley',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_107 = {
+   'name' : 'Princeton University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_108 = {
+   'name' : 'University of Chicago',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_109 = {
+   'name' : 'Yale University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_110 = {
+   'name' : 'California Institute of Technology',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_111 = {
+   'name' : 'University of Pennsylvania',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_112 = {
+   'name' : 'Cornell University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_113 = {
+   'name' : 'University of Tokyo',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_114 = {
+   'name' : 'Kyoto University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_115 = {
+   'name' : 'University of California, Los Angeles',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_116 = {
+   'name' : 'Johns Hopkins University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_117 = {
+   'name' : 'Swiss Federal Institute of Technology in Zurich',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_118 = {
+   'name' : 'New York University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_119 = {
+   'name' : 'University of California, San Diego',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_120 = {
+   'name' : 'Hebrew University of Jerusalem',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_121 = {
+   'name' : 'University of California, San Francisco',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_122 = {
+   'name' : 'University of Wisconsin�Madison',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_123 = {
+   'name' : 'University of Illinois at Urbana�Champaign',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_124 = {
+   'name' : 'Duke University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_125 = {
+   'name' : 'University of Texas at Austin',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_126 = {
+   'name' : 'Imperial College London',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_127 = {
+   'name' : 'Northwestern University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_128 = {
+   'name' : 'University of Toronto',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_129 = {
+   'name' : 'University College London',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_130 = {
+   'name' : 'University of Washington - Seattle',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_131 = {
+   'name' : 'University of Michigan, Ann Arbor',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_132 = {
+   'name' : 'Weizmann Institute of Science',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_133 = {
+   'name' : 'University of North Carolina at Chapel Hill',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_134 = {
+   'name' : 'Osaka University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_135 = {
+   'name' : 'University of Paris-Sud',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_136 = {
+   'name' : 'University of California, Santa Barbara',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_137 = {
+   'name' : 'Purdue University, West Lafayette',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_138 = {
+   'name' : 'University of Southern California',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_139 = {
+   'name' : 'Seoul National University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_140 = {
+   'name' : 'University of Colorado Boulder',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_141 = {
+   'name' : 'University of Utah',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_142 = {
+   'name' : 'Rutgers University-New Brunswick',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_143 = {
+   'name' : 'University of Minnesota, Twin Cities',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_144 = {
+   'name' : 'University of Edinburgh',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_145 = {
+   'name' : 'University of Texas Southwestern Medical Center',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_146 = {
+   'name' : 'McGill University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_147 = {
+   'name' : 'Pierre-and-Marie-Curie University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_148 = {
+   'name' : 'Rockefeller University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_149 = {
+   'name' : 'Pennsylvania State University, University Park',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_150 = {
+   'name' : 'Carnegie Mellon University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_151 = {
+   'name' : 'Ohio State University, Columbus',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_152 = {
+   'name' : 'University of California, Davis',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_153 = {
+   'name' : 'Boston University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_154 = {
+   'name' : 'University of Florida',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_155 = {
+   'name' : 'University of Geneva',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_156 = {
+   'name' : 'Tel Aviv University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_157 = {
+   'name' : 'University of British Columbia',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_158 = {
+   'name' : 'University of Maryland, College Park',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_159 = {
+   'name' : 'Karolinska Institute',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_160 = {
+   'name' : 'Vanderbilt University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_161 = {
+   'name' : 'Sapienza University of Rome',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_162 = {
+   'name' : 'Washington University in St. Louis',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_163 = {
+   'name' : '�cole normale sup�rieure - Paris',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_164 = {
+   'name' : 'University of California, Irvine',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_165 = {
+   'name' : 'Technion � Israel Institute of Technology',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_166 = {
+   'name' : 'Ludwig Maximilian University of Munich',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_167 = {
+   'name' : 'University of Copenhagen',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_168 = {
+   'name' : 'University of Pittsburgh - Pittsburgh Campus',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_169 = {
+   'name' : 'Keio University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_170 = {
+   'name' : 'University of Virginia',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_171 = {
+   'name' : 'University of Manchester',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_172 = {
+   'name' : 'Arizona State University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_173 = {
+   'name' : 'University of Zurich',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_174 = {
+   'name' : 'King's College London',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_175 = {
+   'name' : 'University of Rochester',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_176 = {
+   'name' : 'Brown University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_177 = {
+   'name' : 'University of Arizona',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_178 = {
+   'name' : 'Ruprecht Karl University of Heidelberg',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_179 = {
+   'name' : 'Texas A&M University, College Station',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_180 = {
+   'name' : 'University of Oslo',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_181 = {
+   'name' : 'Dartmouth College',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_182 = {
+   'name' : 'Swiss Federal Institute of Technology in Lausanne',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_183 = {
+   'name' : 'Utrecht University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_184 = {
+   'name' : 'Indiana University - Bloomington',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_185 = {
+   'name' : '�cole Polytechnique',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_186 = {
+   'name' : 'National University of Singapore',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_187 = {
+   'name' : 'University of Texas MD Anderson Cancer Center',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_188 = {
+   'name' : 'Stony Brook University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_189 = {
+   'name' : 'Lomonosov Moscow State University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_190 = {
+   'name' : 'Nagoya University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_191 = {
+   'name' : 'University of Sydney',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_192 = {
+   'name' : 'Emory University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_193 = {
+   'name' : 'Rice University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_194 = {
+   'name' : 'Tohoku University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_195 = {
+   'name' : 'Australian National University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_196 = {
+   'name' : 'University of Alberta',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_197 = {
+   'name' : 'University of Helsinki',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_198 = {
+   'name' : 'Paris Diderot University - Paris 7',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_199 = {
+   'name' : 'Georgia Institute of Technology',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_200 = {
+   'name' : 'Harvard University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_201 = {
+   'name' : 'Stanford University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_202 = {
+   'name' : 'Massachusetts Institute of Technology',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_203 = {
+   'name' : 'University of Cambridge',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_204 = {
+   'name' : 'University of Oxford',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_205 = {
+   'name' : 'Columbia University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_206 = {
+   'name' : 'University of California, Berkeley',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_207 = {
+   'name' : 'University of Chicago',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_208 = {
+   'name' : 'Princeton University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_209 = {
+   'name' : 'Yale University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_210 = {
+   'name' : 'Cornell University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_211 = {
+   'name' : 'California Institute of Technology',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_212 = {
+   'name' : 'University of Tokyo',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_213 = {
+   'name' : 'University of Pennsylvania',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_214 = {
+   'name' : 'University of California, Los Angeles',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_215 = {
+   'name' : 'Kyoto University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_216 = {
+   'name' : 'New York University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_217 = {
+   'name' : 'Swiss Federal Institute of Technology in Zurich',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_218 = {
+   'name' : 'Johns Hopkins University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_219 = {
+   'name' : 'University of California, San Diego',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_220 = {
+   'name' : 'University of Michigan, Ann Arbor',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_221 = {
+   'name' : 'Hebrew University of Jerusalem',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_222 = {
+   'name' : 'Northwestern University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_223 = {
+   'name' : 'Seoul National University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_224 = {
+   'name' : 'University of Wisconsin�Madison',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_225 = {
+   'name' : 'Duke University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_226 = {
+   'name' : 'University of California, San Francisco',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_227 = {
+   'name' : 'University of Illinois at Urbana�Champaign',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_228 = {
+   'name' : 'University of Texas at Austin',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_229 = {
+   'name' : 'University College London',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_230 = {
+   'name' : 'University of Toronto',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_231 = {
+   'name' : 'University of Washington - Seattle',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_232 = {
+   'name' : 'Rutgers University-New Brunswick',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_233 = {
+   'name' : 'Keio University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_234 = {
+   'name' : '�cole normale sup�rieure - Paris',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_235 = {
+   'name' : '�cole Polytechnique',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_236 = {
+   'name' : 'Rockefeller University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_237 = {
+   'name' : 'Weizmann Institute of Science',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_238 = {
+   'name' : 'Imperial College London',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_239 = {
+   'name' : 'Waseda University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_240 = {
+   'name' : 'University of Virginia',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_241 = {
+   'name' : 'McGill University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_242 = {
+   'name' : 'Osaka University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_243 = {
+   'name' : 'Dartmouth College',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_244 = {
+   'name' : 'University of North Carolina at Chapel Hill',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_245 = {
+   'name' : 'Pennsylvania State University, University Park',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_246 = {
+   'name' : 'Ohio State University, Columbus',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_247 = {
+   'name' : 'Lomonosov Moscow State University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_248 = {
+   'name' : 'University of Minnesota, Twin Cities',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_249 = {
+   'name' : 'University of Paris-Sud',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_250 = {
+   'name' : 'University of Southern California',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_251 = {
+   'name' : 'Purdue University, West Lafayette',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_252 = {
+   'name' : 'University of Pittsburgh - Pittsburgh Campus',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_253 = {
+   'name' : 'Carnegie Mellon University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_254 = {
+   'name' : 'Peking University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_255 = {
+   'name' : 'University of Edinburgh',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_256 = {
+   'name' : 'University of California, Davis',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_257 = {
+   'name' : 'Washington University in St. Louis',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_258 = {
+   'name' : 'University of Florida',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_259 = {
+   'name' : 'University of California, Santa Barbara',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_260 = {
+   'name' : 'University of British Columbia',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_261 = {
+   'name' : 'University of Utah',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_262 = {
+   'name' : 'University of Colorado Boulder',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_263 = {
+   'name' : 'University of Notre Dame',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_264 = {
+   'name' : 'National Taiwan University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_265 = {
+   'name' : 'University of Texas Southwestern Medical Center',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_266 = {
+   'name' : 'Boston University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_267 = {
+   'name' : 'Pierre-and-Marie-Curie University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_268 = {
+   'name' : 'University of Manchester',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_269 = {
+   'name' : 'University of Arizona',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_270 = {
+   'name' : 'Vanderbilt University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_271 = {
+   'name' : 'Tohoku University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_272 = {
+   'name' : 'Karolinska Institute',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_273 = {
+   'name' : 'National University of Singapore',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_274 = {
+   'name' : 'University of Geneva',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_275 = {
+   'name' : 'University of Maryland, College Park',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_276 = {
+   'name' : 'University of Rochester',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_277 = {
+   'name' : 'Emory University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_278 = {
+   'name' : 'University of Copenhagen',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_279 = {
+   'name' : 'University of California, Irvine',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_280 = {
+   'name' : 'Brown University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_281 = {
+   'name' : 'Ludwig Maximilian University of Munich',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_282 = {
+   'name' : 'Georgia Institute of Technology',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_283 = {
+   'name' : 'Tufts University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_284 = {
+   'name' : 'University of Zurich',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_285 = {
+   'name' : 'Tel Aviv University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_286 = {
+   'name' : 'Tsinghua University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_287 = {
+   'name' : 'Utrecht University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_288 = {
+   'name' : 'Ruprecht Karl University of Heidelberg',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_289 = {
+   'name' : 'King's College London',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_290 = {
+   'name' : 'Sapienza University of Rome',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_291 = {
+   'name' : 'Kyushu University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_292 = {
+   'name' : 'Swiss Federal Institute of Technology in Lausanne',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_293 = {
+   'name' : 'Katholieke Universiteit Leuven',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_294 = {
+   'name' : 'University of Sydney',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_295 = {
+   'name' : 'Tokyo Institute of Technology',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_296 = {
+   'name' : 'University of Melbourne',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_297 = {
+   'name' : 'University of Bonn',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_298 = {
+   'name' : 'Technical University of Munich',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_299 = {
+   'name' : 'Royal Institute of Technology',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_300 = {
+   'name' : 'Erasmus University Rotterdam',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_301 = {
+   'name' : 'Case Western Reserve University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_302 = {
+   'name' : 'University of Alberta',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_303 = {
+   'name' : 'University of Texas MD Anderson Cancer Center',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_304 = {
+   'name' : 'Texas A&M University, College Station',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_305 = {
+   'name' : 'Arizona State University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_306 = {
+   'name' : 'Yonsei University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_307 = {
+   'name' : 'Rice University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_308 = {
+   'name' : 'Technion � Israel Institute of Technology',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_309 = {
+   'name' : 'University of Helsinki',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_310 = {
+   'name' : 'University of Oslo',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_311 = {
+   'name' : 'Michigan State University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_312 = {
+   'name' : 'Indiana University - Bloomington',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_313 = {
+   'name' : 'University of the Witwatersrand',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_314 = {
+   'name' : 'University of Queensland',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_315 = {
+   'name' : 'Lund University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_316 = {
+   'name' : 'Leiden University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_317 = {
+   'name' : 'Georgetown University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_318 = {
+   'name' : 'Aarhus University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_319 = {
+   'name' : 'University of Barcelona',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_320 = {
+   'name' : 'Baylor College of Medicine',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_321 = {
+   'name' : 'University of Amsterdam',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_322 = {
+   'name' : 'University of Bristol',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_323 = {
+   'name' : 'Uppsala University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_324 = {
+   'name' : 'University of Iowa',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_325 = {
+   'name' : 'Stony Brook University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_326 = {
+   'name' : 'University of Groningen',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_327 = {
+   'name' : 'Korea Advanced Institute of Science and Technology (KAIST)',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_328 = {
+   'name' : 'Radboud University Nijmegen',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_329 = {
+   'name' : 'Korea University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_330 = {
+   'name' : 'University of S�o Paulo',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_331 = {
+   'name' : 'Nagoya University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_332 = {
+   'name' : 'University of Colorado Denver',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_333 = {
+   'name' : 'University of Montreal',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_334 = {
+   'name' : 'Albert Ludwig University of Freiburg',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_335 = {
+   'name' : 'Ghent University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_336 = {
+   'name' : 'University of Glasgow',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_337 = {
+   'name' : 'University of Miami',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_338 = {
+   'name' : 'Universit� libre de Bruxelles',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_339 = {
+   'name' : 'Paris Diderot University - Paris 7',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_340 = {
+   'name' : 'McMaster University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_341 = {
+   'name' : 'University of Birmingham',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_342 = {
+   'name' : 'University of Texas at Dallas',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_343 = {
+   'name' : 'VU University Amsterdam',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_344 = {
+   'name' : 'Wake Forest University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_345 = {
+   'name' : 'University of Southampton',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_346 = {
+   'name' : 'University of Nottingham',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_347 = {
+   'name' : 'Nanyang Technological University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_348 = {
+   'name' : 'University of New South Wales',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_349 = {
+   'name' : 'Osaka City University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_350 = {
+   'name' : 'University of Leeds',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_351 = {
+   'name' : 'Western University (The University of Western Ontario)',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_352 = {
+   'name' : 'Kobe University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_353 = {
+   'name' : 'University of Basel',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_354 = {
+   'name' : 'University of Hong Kong',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_355 = {
+   'name' : 'Indiana University-Purdue University Indianapolis',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_356 = {
+   'name' : 'Humboldt University of Berlin',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_357 = {
+   'name' : 'Free University of Berlin',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_358 = {
+   'name' : 'University of T�bingen',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_359 = {
+   'name' : 'Australian National University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_360 = {
+   'name' : 'Goethe University Frankfurt',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_361 = {
+   'name' : 'University of Houston',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_362 = {
+   'name' : 'University of California, Santa Cruz',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_363 = {
+   'name' : 'University of Alabama at Birmingham',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_364 = {
+   'name' : 'Icahn School of Medicine at Mount Sinai',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_365 = {
+   'name' : 'University of Calgary',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_366 = {
+   'name' : 'Mines ParisTech',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_367 = {
+   'name' : 'University of Gothenburg',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_368 = {
+   'name' : 'University of G�ttingen',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_369 = {
+   'name' : 'Monash University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_370 = {
+   'name' : 'Southern Methodist University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_371 = {
+   'name' : 'Yeshiva University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_372 = {
+   'name' : 'University of South Florida - Tampa',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_373 = {
+   'name' : 'Hanyang University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_374 = {
+   'name' : 'Oregon Health & Science University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_375 = {
+   'name' : 'University of Strasbourg',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_376 = {
+   'name' : 'University of Cincinnati',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_377 = {
+   'name' : 'University of Sheffield',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_378 = {
+   'name' : 'University of Hamburg',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_379 = {
+   'name' : 'George Washington University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_380 = {
+   'name' : 'University of Milan',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_381 = {
+   'name' : 'Iowa State University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_382 = {
+   'name' : 'University of Maryland, Baltimore',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_383 = {
+   'name' : 'University of Padua',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_384 = {
+   'name' : 'University of New Mexico',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_385 = {
+   'name' : 'Pohang University of Science and Technology',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_386 = {
+   'name' : 'Stockholm University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_387 = {
+   'name' : 'Hokkaido University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_388 = {
+   'name' : 'Fudan University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_389 = {
+   'name' : 'University of Sussex',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_390 = {
+   'name' : 'Universit� catholique de Louvain',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_391 = {
+   'name' : 'Wayne State University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_392 = {
+   'name' : 'University of Massachusetts Medical School',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_393 = {
+   'name' : 'University of Lausanne',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_394 = {
+   'name' : 'Shanghai Jiao Tong University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_395 = {
+   'name' : 'University of Missouri�Columbia',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_396 = {
+   'name' : 'Technical University of Denmark',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_397 = {
+   'name' : 'Complutense University of Madrid',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_398 = {
+   'name' : 'University of Cologne',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_399 = {
+   'name' : 'Trinity College, Dublin',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_400 = {
+   'name' : 'University of Bern',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_401 = {
+   'name' : 'Chinese University of Hong Kong',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_402 = {
+   'name' : 'University of Kansas',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_403 = {
+   'name' : 'Sungkyunkwan University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_404 = {
+   'name' : 'University of Vienna',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_405 = {
+   'name' : 'Zhejiang University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_406 = {
+   'name' : 'University of Georgia',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_407 = {
+   'name' : 'University of Massachusetts Amherst',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_408 = {
+   'name' : 'Cardiff University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_409 = {
+   'name' : 'University of M�nster',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_410 = {
+   'name' : 'University of Liverpool',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_411 = {
+   'name' : 'University of Ottawa',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_412 = {
+   'name' : 'University of Erlangen-Nuremberg',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_413 = {
+   'name' : 'Queen Mary University of London',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_414 = {
+   'name' : 'Karlsruhe Institute of Technology',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_415 = {
+   'name' : 'Louisiana State University - Baton Rouge',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_416 = {
+   'name' : 'Nanjing University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_417 = {
+   'name' : 'University of Illinois at Chicago',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_418 = {
+   'name' : 'University of Bologna',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_419 = {
+   'name' : 'University of Manitoba',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_420 = {
+   'name' : 'Joseph Fourier University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_421 = {
+   'name' : 'University of California, Riverside',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_422 = {
+   'name' : 'Julius-Maximilian's University of W�rzburg',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_423 = {
+   'name' : 'Aix-Marseille University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_424 = {
+   'name' : 'University of Western Australia',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_425 = {
+   'name' : 'Laval University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_426 = {
+   'name' : 'University of Tennessee, Knoxville',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_427 = {
+   'name' : 'North Carolina State University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_428 = {
+   'name' : 'Newcastle University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_429 = {
+   'name' : 'Claude Bernard University Lyon 1',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_430 = {
+   'name' : 'University of Turin',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_431 = {
+   'name' : 'University of Kiel',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_432 = {
+   'name' : 'University of Connecticut',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_433 = {
+   'name' : 'Tulane University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_434 = {
+   'name' : 'University of Oklahoma - Norman Campus',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_435 = {
+   'name' : 'Brandeis University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_436 = {
+   'name' : 'Dresden University of Technology',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_437 = {
+   'name' : 'RWTH Aachen University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_438 = {
+   'name' : 'University of Texas Health Science Center at San Antonio',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_439 = {
+   'name' : 'Virginia Commonwealth University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_440 = {
+   'name' : 'University of Montpellier 2',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_441 = {
+   'name' : 'Dalian University of Technology',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_442 = {
+   'name' : 'Rensselaer Polytechnic Institute',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_443 = {
+   'name' : 'Paul Sabatier University - Toulouse III',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_444 = {
+   'name' : 'Paris Descartes University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_445 = {
+   'name' : 'National Cheng Kung University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_446 = {
+   'name' : 'University of Delaware',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_447 = {
+   'name' : 'Vrije Universiteit Brussel',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_448 = {
+   'name' : 'Johannes Gutenberg University of Mainz',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_449 = {
+   'name' : 'Maastricht University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_450 = {
+   'name' : 'University of D�sseldorf',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_451 = {
+   'name' : 'University of Dundee',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_452 = {
+   'name' : 'University of Tsukuba',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_453 = {
+   'name' : 'Autonomous University of Barcelona',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_454 = {
+   'name' : 'Florida State University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_455 = {
+   'name' : 'University of Texas at San Antonio',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_456 = {
+   'name' : 'London School of Hygiene & Tropical Medicine',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_457 = {
+   'name' : 'Lehigh University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_458 = {
+   'name' : 'University of Kentucky',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_459 = {
+   'name' : 'Thomas Jefferson University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_460 = {
+   'name' : 'Drexel University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_461 = {
+   'name' : 'Colorado State University - Fort Collins',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_462 = {
+   'name' : 'University of Leicester',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_463 = {
+   'name' : 'Durham University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_464 = {
+   'name' : 'Oregon State University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_465 = {
+   'name' : 'University of Florence',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_466 = {
+   'name' : 'University of Cape Town',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_467 = {
+   'name' : 'University at Buffalo, The State University of New York',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_468 = {
+   'name' : 'University College Dublin',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_469 = {
+   'name' : 'University of Science and Technology of China',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_470 = {
+   'name' : 'Virginia Polytechnic Institute and State University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_471 = {
+   'name' : 'University of Naples Federico II',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_472 = {
+   'name' : 'University of Auckland',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_473 = {
+   'name' : 'University of Texas Health Science Center at Houston',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_474 = {
+   'name' : 'Delft University of Technology',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_475 = {
+   'name' : 'University of Aberdeen',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_476 = {
+   'name' : 'Queen's University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_477 = {
+   'name' : 'University of Lisbon',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_478 = {
+   'name' : 'Hiroshima University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_479 = {
+   'name' : 'University of Waterloo',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_480 = {
+   'name' : 'Okayama University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_481 = {
+   'name' : 'University of Ulm',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_482 = {
+   'name' : 'Chulalongkorn University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_483 = {
+   'name' : 'Dalhousie University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_484 = {
+   'name' : 'Saint Petersburg State University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_485 = {
+   'name' : 'Norwegian University of Science and Technology',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_486 = {
+   'name' : 'University of Reading',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_487 = {
+   'name' : 'Wageningen University and Research Centre',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_488 = {
+   'name' : 'Ume� University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_489 = {
+   'name' : 'University of Porto',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_490 = {
+   'name' : 'Hong Kong University of Science and Technology',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_491 = {
+   'name' : 'Sun Yat-sen University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_492 = {
+   'name' : 'Medical College of Wisconsin',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_493 = {
+   'name' : 'City College of New York',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_494 = {
+   'name' : 'Hannover Medical School',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_495 = {
+   'name' : 'Washington State University, Pullman',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_496 = {
+   'name' : 'Technical University of Berlin',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_497 = {
+   'name' : 'University of South Carolina - Columbia',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_498 = {
+   'name' : 'Leipzig University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_499 = {
+   'name' : 'University of Stuttgart',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_500 = {
+   'name' : 'University of Valencia',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_501 = {
+   'name' : 'Link�ping University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_502 = {
+   'name' : 'University of Duisburg-Essen',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_503 = {
+   'name' : 'Ruhr University Bochum',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_504 = {
+   'name' : 'University of Bergen',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_505 = {
+   'name' : 'London School of Economics',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_506 = {
+   'name' : 'Wesleyan University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_507 = {
+   'name' : 'University of Pisa',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_508 = {
+   'name' : 'Autonomous University of Madrid',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_509 = {
+   'name' : 'Medical University of Vienna',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_510 = {
+   'name' : 'Stellenbosch University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_511 = {
+   'name' : 'Medical University of South Carolina',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_512 = {
+   'name' : 'Charles University in Prague',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_513 = {
+   'name' : 'Kyungpook National University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_514 = {
+   'name' : 'University of Science, Malaysia',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_515 = {
+   'name' : 'University of Li�ge',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_516 = {
+   'name' : 'University of Hull',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_517 = {
+   'name' : 'Northeastern University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_518 = {
+   'name' : 'Kansas State University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_519 = {
+   'name' : 'University of Vermont',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_520 = {
+   'name' : 'Rush University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_521 = {
+   'name' : 'University of Louisville',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_522 = {
+   'name' : 'University of St Andrews',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_523 = {
+   'name' : 'University of Warwick',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_524 = {
+   'name' : 'University of Rome Tor Vergata',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_525 = {
+   'name' : 'University of Innsbruck',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_526 = {
+   'name' : 'Darmstadt University of Technology',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_527 = {
+   'name' : 'Indian Institute of Technology Delhi',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_528 = {
+   'name' : 'Federal University of Rio de Janeiro',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_529 = {
+   'name' : 'University of Antwerp',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_530 = {
+   'name' : 'National and Kapodistrian University of Athens',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_531 = {
+   'name' : 'Boston College',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_532 = {
+   'name' : 'Vita-Salute San Raffaele University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_533 = {
+   'name' : 'Gwangju Institute of Science and Technology',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_534 = {
+   'name' : 'University of Nebraska�Lincoln',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_535 = {
+   'name' : 'University of York',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_536 = {
+   'name' : 'National Autonomous University of Mexico',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_537 = {
+   'name' : 'University of Regensburg',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_538 = {
+   'name' : 'Yokohama National University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_539 = {
+   'name' : 'University of Adelaide',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_540 = {
+   'name' : 'University of Genoa',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_541 = {
+   'name' : 'Queen's University Belfast',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_542 = {
+   'name' : 'University of Marburg',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_543 = {
+   'name' : 'University of Pavia',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_544 = {
+   'name' : 'St George's, University of London',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_545 = {
+   'name' : 'University of Oregon',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_546 = {
+   'name' : 'University of Navarra',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_547 = {
+   'name' : 'San Diego State University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_548 = {
+   'name' : 'Nankai University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_549 = {
+   'name' : 'University of East Anglia',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_550 = {
+   'name' : 'University of Nebraska Medical Center',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_551 = {
+   'name' : 'University of Southern Denmark',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_552 = {
+   'name' : 'Eindhoven University of Technology',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_553 = {
+   'name' : 'Xiamen University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_554 = {
+   'name' : 'University of Otago',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_555 = {
+   'name' : 'University of Santiago de Compostela',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_556 = {
+   'name' : 'University of Exeter',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_557 = {
+   'name' : 'University of Jena',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_558 = {
+   'name' : 'University of Perugia',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_559 = {
+   'name' : 'Justus Liebig University Giessen',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_560 = {
+   'name' : 'College of William and Mary',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_561 = {
+   'name' : 'Ben-Gurion University of the Negev',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_562 = {
+   'name' : 'Saint Louis University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_563 = {
+   'name' : 'Colorado School of Mines',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_564 = {
+   'name' : 'Oklahoma State University�Stillwater',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_565 = {
+   'name' : 'University of Guelph',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_566 = {
+   'name' : 'University of Trieste',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_567 = {
+   'name' : 'University of Verona',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_568 = {
+   'name' : 'University at Albany, SUNY',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_569 = {
+   'name' : 'Tongji University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_570 = {
+   'name' : 'E�tv�s Lor�nd University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_571 = {
+   'name' : 'University of Alabama - Tuscaloosa',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_572 = {
+   'name' : 'University of Eastern Finland',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_573 = {
+   'name' : 'Ewha Womans University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_574 = {
+   'name' : 'City University of Hong Kong',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_575 = {
+   'name' : 'Tokyo Medical and Dental University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_576 = {
+   'name' : 'University of Victoria',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_577 = {
+   'name' : 'University of Buenos Aires',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_578 = {
+   'name' : 'University of Texas Medical Branch at Galveston',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_579 = {
+   'name' : 'Kyung Hee University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_580 = {
+   'name' : 'Hong Kong Polytechnic University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_581 = {
+   'name' : 'Saarland University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_582 = {
+   'name' : 'Scuola Normale Superiore di Pisa',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_583 = {
+   'name' : 'University of Seville',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_584 = {
+   'name' : 'Beijing Normal University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_585 = {
+   'name' : 'Chiba University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_586 = {
+   'name' : 'University of Ferrara',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_587 = {
+   'name' : 'University of Bari Aldo Moro',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_588 = {
+   'name' : 'Polytechnic University of Milan',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_589 = {
+   'name' : 'Temple University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_590 = {
+   'name' : 'University of Turku',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_591 = {
+   'name' : 'Aalto University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_592 = {
+   'name' : 'Simon Fraser University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_593 = {
+   'name' : 'Tianjin University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_594 = {
+   'name' : 'Chalmers University of Technology',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_595 = {
+   'name' : 'Middle East Technical University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_596 = {
+   'name' : 'Cranfield University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_597 = {
+   'name' : 'York University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_598 = {
+   'name' : 'Xi'an Jiaotong University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_599 = {
+   'name' : 'Chonnam National University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_600 = {
+   'name' : 'University of Central Florida',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_601 = {
+   'name' : 'University of Lorraine',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_602 = {
+   'name' : 'University of Bordeaux II',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_603 = {
+   'name' : 'University of New Hampshire',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_604 = {
+   'name' : 'Versailles Saint-Quentin-en-Yvelines University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_605 = {
+   'name' : 'Chonbuk National University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_606 = {
+   'name' : 'Kumamoto University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_607 = {
+   'name' : 'Huazhong University of Science and Technology',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_608 = {
+   'name' : 'Brunel University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_609 = {
+   'name' : 'Polytechnic University of Catalonia',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_610 = {
+   'name' : 'National Chiao Tung University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_611 = {
+   'name' : 'Southeast University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_612 = {
+   'name' : 'Tokyo University of Science',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_613 = {
+   'name' : 'Catholic University of the Sacred Heart',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_614 = {
+   'name' : 'Brigham Young University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_615 = {
+   'name' : 'Technical University of Madrid',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_616 = {
+   'name' : 'Nagasaki University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_617 = {
+   'name' : 'National Tsing Hua University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_618 = {
+   'name' : 'University of Warsaw',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_619 = {
+   'name' : 'King Saud University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_620 = {
+   'name' : 'University of Bath',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_621 = {
+   'name' : 'Concordia University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_622 = {
+   'name' : 'Georgia Regents University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_623 = {
+   'name' : 'Niigata University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_624 = {
+   'name' : 'University of Oulu',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_625 = {
+   'name' : 'Pompeu Fabra University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_626 = {
+   'name' : 'Vienna University of Technology',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_627 = {
+   'name' : 'Sogang University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_628 = {
+   'name' : 'Gyeongsang National University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_629 = {
+   'name' : 'University of Tampere',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_630 = {
+   'name' : 'University of Milan - Bicocca',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_631 = {
+   'name' : 'University of Bordeaux I',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_632 = {
+   'name' : 'Swedish University of Agricultural Sciences',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_633 = {
+   'name' : 'George Mason University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_634 = {
+   'name' : 'Jilin University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_635 = {
+   'name' : 'University of Delhi',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_636 = {
+   'name' : 'University of Campinas',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_637 = {
+   'name' : 'Wuhan University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_638 = {
+   'name' : 'West Virginia University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_639 = {
+   'name' : 'Pusan National University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_640 = {
+   'name' : 'University of Mississippi - Oxford Campus',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_641 = {
+   'name' : 'University of Arkansas for Medical Sciences',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_642 = {
+   'name' : 'Miami University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_643 = {
+   'name' : 'University of Tokushima',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_644 = {
+   'name' : 'University of Twente',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_645 = {
+   'name' : 'Loyola University Chicago',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_646 = {
+   'name' : 'Ajou University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_647 = {
+   'name' : 'Syracuse University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_648 = {
+   'name' : 'Lancaster University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_649 = {
+   'name' : 'Pontifical Catholic University of Chile',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_650 = {
+   'name' : 'University of Chile',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_651 = {
+   'name' : 'Innsbruck Medical University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_652 = {
+   'name' : 'University of Granada',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_653 = {
+   'name' : 'Kanazawa University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_654 = {
+   'name' : 'University of Parma',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_655 = {
+   'name' : 'University of Siena',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_656 = {
+   'name' : 'Shandong University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_657 = {
+   'name' : 'Technical University of Dortmund',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_658 = {
+   'name' : 'University of KwaZulu-Natal',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_659 = {
+   'name' : 'University of Nevada, Reno',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_660 = {
+   'name' : 'Yokohama City University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_661 = {
+   'name' : '�cole normale sup�rieure de Lyon',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_662 = {
+   'name' : 'University College Cork',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_663 = {
+   'name' : 'Ohio University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_664 = {
+   'name' : 'Central South University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_665 = {
+   'name' : 'University of Modena and Reggio Emilia',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_666 = {
+   'name' : 'New Mexico State University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_667 = {
+   'name' : 'University of Konstanz',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_668 = {
+   'name' : 'University of Hawaii at Manoa',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_669 = {
+   'name' : 'University of Nebraska Omaha',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_670 = {
+   'name' : 'Shinshu University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_671 = {
+   'name' : 'University of Strathclyde',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_672 = {
+   'name' : 'Baylor University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_673 = {
+   'name' : 'Polytechnic University of Valencia',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_674 = {
+   'name' : 'Harbin Institute of Technology',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_675 = {
+   'name' : 'University of Rennes 1',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_676 = {
+   'name' : 'University of Arkansas - Fayetteville',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_677 = {
+   'name' : 'Aristotle University of Thessaloniki',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_678 = {
+   'name' : 'Jagiellonian University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_679 = {
+   'name' : 'Texas Tech University (TTU)',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_680 = {
+   'name' : 'University of Rostock',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_681 = {
+   'name' : 'University of Akron',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_682 = {
+   'name' : 'University of Saskatchewan',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_683 = {
+   'name' : 'Juntendo University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_684 = {
+   'name' : 'University of Wyoming',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_685 = {
+   'name' : 'Macquarie University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_686 = {
+   'name' : 'University of Canterbury',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_687 = {
+   'name' : 'University of Denver',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_688 = {
+   'name' : 'Illinois Institute of Technology',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_689 = {
+   'name' : 'Creighton University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_690 = {
+   'name' : 'Bielefeld University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_691 = {
+   'name' : 'University of Malaya',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_692 = {
+   'name' : 'University of Ulsan',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_693 = {
+   'name' : 'City University London',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_694 = {
+   'name' : 'Grenoble Institute of Technology',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_695 = {
+   'name' : 'Federal University of Minas Gerais',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_696 = {
+   'name' : 'University of Hanover',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_697 = {
+   'name' : 'South China University of Technology',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_698 = {
+   'name' : 'University of Surrey',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_699 = {
+   'name' : 'Otto-von-Guericke University Magdeburg',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_700 = {
+   'name' : 'Indian Institute of Science',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_701 = {
+   'name' : 'Tokyo Metropolitan University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_702 = {
+   'name' : 'Bar-Ilan University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_703 = {
+   'name' : 'Mississippi State University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_704 = {
+   'name' : 'University of Maryland, Baltimore County',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_705 = {
+   'name' : 'University of Wollongong',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_706 = {
+   'name' : 'Flinders University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_707 = {
+   'name' : 'Martin Luther University of Halle-Wittenberg',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_708 = {
+   'name' : 'Graduate University for Advanced Studies',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_709 = {
+   'name' : 'Clemson University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_710 = {
+   'name' : 'University of Brescia',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_711 = {
+   'name' : 'Georgia State University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_712 = {
+   'name' : 'Dongguk University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_713 = {
+   'name' : 'University of Fribourg',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_714 = {
+   'name' : 'Sichuan University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_715 = {
+   'name' : 'University of Iceland',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_716 = {
+   'name' : 'University of Sherbrooke',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_717 = {
+   'name' : 'University of Graz',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_718 = {
+   'name' : 'University of M�laga',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_719 = {
+   'name' : 'University of Zaragoza',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_720 = {
+   'name' : 'New York Medical College',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_721 = {
+   'name' : 'SUNY Downstate Medical Center',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_722 = {
+   'name' : '�cole Centrale Paris',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_723 = {
+   'name' : 'Utah State University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_724 = {
+   'name' : 'University of Ljubljana',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_725 = {
+   'name' : 'University of Montpellier 1',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_726 = {
+   'name' : 'Victoria University of Wellington',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_727 = {
+   'name' : 'East China University of Science and Technology',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_728 = {
+   'name' : 'Konkuk University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_729 = {
+   'name' : 'University of Potsdam',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_730 = {
+   'name' : 'University of the Basque Country',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_731 = {
+   'name' : 'University of Nice Sophia Antipolis',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_732 = {
+   'name' : 'University of Udine',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_733 = {
+   'name' : 'National Yang-Ming University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_734 = {
+   'name' : 'Indian Institute of Technology Bombay',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_735 = {
+   'name' : 'University of Bayreuth',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_736 = {
+   'name' : 'University of Wisconsin�Milwaukee',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_737 = {
+   'name' : 'University of Dayton',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_738 = {
+   'name' : 'Nihon University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_739 = {
+   'name' : 'Montana State University - Bozeman',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_740 = {
+   'name' : 'Royal Holloway, University of London',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_741 = {
+   'name' : 'Tokyo Women's Medical University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_742 = {
+   'name' : 'Panjab University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_743 = {
+   'name' : 'Tampere University of Technology',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_744 = {
+   'name' : 'University of Coimbra',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_745 = {
+   'name' : 'University of Newcastle',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_746 = {
+   'name' : 'Nara Institute of Science and Technology',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_747 = {
+   'name' : 'Auburn University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_748 = {
+   'name' : 'University of Bremen',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_749 = {
+   'name' : 'Mahidol University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_750 = {
+   'name' : 'University of Crete',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_751 = {
+   'name' : 'Bangor University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_752 = {
+   'name' : 'University of Aveiro',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_753 = {
+   'name' : 'University of Palermo',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_754 = {
+   'name' : 'Nagoya City University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_755 = {
+   'name' : 'University of Tartu',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_756 = {
+   'name' : 'University of Savoy',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_757 = {
+   'name' : 'University of Troms� - The Arctic University of Norway',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_758 = {
+   'name' : 'University of Missouri�Kansas City',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_759 = {
+   'name' : 'Beihang University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_760 = {
+   'name' : 'American University of Beirut',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_761 = {
+   'name' : 'University of Nantes',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_762 = {
+   'name' : 'University of Essex',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_763 = {
+   'name' : 'University of Zagreb',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_764 = {
+   'name' : 'National Central University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_765 = {
+   'name' : 'University Lille 1: Sciences and Technologies',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_766 = {
+   'name' : 'University of Catania',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_767 = {
+   'name' : 'National Polytechnic Institute of Toulouse',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_768 = {
+   'name' : 'Indian Institute of Technology Kanpur',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_769 = {
+   'name' : 'Kagoshima University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_770 = {
+   'name' : 'Lanzhou University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_771 = {
+   'name' : 'James Cook University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_772 = {
+   'name' : 'Shizuoka University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_773 = {
+   'name' : 'Indian Institute of Technology Kharagpur',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_774 = {
+   'name' : 'Second University of Naples',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_775 = {
+   'name' : 'Indian Institute of Technology Madras',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_776 = {
+   'name' : 'Plymouth University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_777 = {
+   'name' : 'International School for Advanced Studies',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_778 = {
+   'name' : 'Polytechnic University of Turin',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_779 = {
+   'name' : 'University of Oviedo',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_780 = {
+   'name' : 'Ehime University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_781 = {
+   'name' : 'University of Ioannina',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_782 = {
+   'name' : 'University of Cagliari',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_783 = {
+   'name' : 'Tottori University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_784 = {
+   'name' : 'Federal University of Rio Grande do Sul',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_785 = {
+   'name' : 'Kent State University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_786 = {
+   'name' : 'University of Los Andes (Colombia)',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_787 = {
+   'name' : 'Hunan University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_788 = {
+   'name' : 'Tokai University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_789 = {
+   'name' : 'LSU Health Sciences Center New Orleans',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_790 = {
+   'name' : 'Southern Illinois University Carbondale',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_791 = {
+   'name' : 'Tata Institute of Fundamental Research',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_792 = {
+   'name' : 'Aalborg University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_793 = {
+   'name' : 'Osaka Prefecture University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_794 = {
+   'name' : 'Chang Gung University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_795 = {
+   'name' : 'Northern Illinois University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_796 = {
+   'name' : 'University of Trento',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_797 = {
+   'name' : 'Semmelweis University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_798 = {
+   'name' : 'University of Science and Technology Beijing',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_799 = {
+   'name' : 'National University of Ireland, Galway',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_800 = {
+   'name' : 'Dankook University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_801 = {
+   'name' : 'Istanbul University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_802 = {
+   'name' : 'Tokyo University of Agriculture and Technology',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_803 = {
+   'name' : 'University of Montana - Missoula',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_804 = {
+   'name' : 'Queensland University of Technology',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_805 = {
+   'name' : 'Binghamton University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_806 = {
+   'name' : 'Universit� de Namur',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_807 = {
+   'name' : 'University of Tasmania',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_808 = {
+   'name' : 'University of Pretoria',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_809 = {
+   'name' : 'Central China Normal University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_810 = {
+   'name' : 'Indian Institute of Technology Roorkee',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_811 = {
+   'name' : 'Curtin University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_812 = {
+   'name' : 'Deakin University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_813 = {
+   'name' : 'Tilburg University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_814 = {
+   'name' : 'Inha University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_815 = {
+   'name' : 'University of New Orleans',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_816 = {
+   'name' : 'Paris-Est Cr�teil Val-de-Marne University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_817 = {
+   'name' : 'University of L'Aquila',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_818 = {
+   'name' : 'Chungnam National University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_819 = {
+   'name' : 'University of Salamanca',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_820 = {
+   'name' : 'University of Alaska Fairbanks',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_821 = {
+   'name' : 'University of Poitiers',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_822 = {
+   'name' : 'Albany Medical College',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_823 = {
+   'name' : 'Birkbeck, University of London',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_824 = {
+   'name' : 'Griffith University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_825 = {
+   'name' : 'Federal University of S�o Paulo',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_826 = {
+   'name' : 'Carleton University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_827 = {
+   'name' : 'Massey University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_828 = {
+   'name' : 'Catholic University of Korea',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_829 = {
+   'name' : 'Open University (UK)',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_830 = {
+   'name' : 'University of Patras',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_831 = {
+   'name' : 'Universidade Nova de Lisboa',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_832 = {
+   'name' : 'Texas A&M Health Science Center',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_833 = {
+   'name' : 'Braunschweig University of Technology',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_834 = {
+   'name' : 'National Chung Hsing University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_835 = {
+   'name' : 'La Trobe University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_836 = {
+   'name' : 'Missouri University of Science and Technology',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_837 = {
+   'name' : 'University of Idaho',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_838 = {
+   'name' : 'Louisiana Tech University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_839 = {
+   'name' : 'University of Portsmouth',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_840 = {
+   'name' : 'University of La Laguna',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_841 = {
+   'name' : 'Florida International University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_842 = {
+   'name' : 'Medical University of Graz',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_843 = {
+   'name' : 'Howard University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_844 = {
+   'name' : 'University of Hertfordshire',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_845 = {
+   'name' : 'State University of New York Upstate Medical University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_846 = {
+   'name' : 'Royal College of Surgeons in Ireland',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_847 = {
+   'name' : 'National Technical University of Athens',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_848 = {
+   'name' : 'University of Windsor',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_849 = {
+   'name' : 'Rovira i Virgili University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_850 = {
+   'name' : 'University of Burgundy',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_851 = {
+   'name' : 'Gunma University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_852 = {
+   'name' : 'AGH University of Science and Technology',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_853 = {
+   'name' : 'Gifu University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_854 = {
+   'name' : 'Hacettepe University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_855 = {
+   'name' : '�rebro University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_856 = {
+   'name' : 'Memorial University of Newfoundland',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_857 = {
+   'name' : 'Kindai University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_858 = {
+   'name' : 'University of Rhode Island',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_859 = {
+   'name' : 'University of Alicante',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_860 = {
+   'name' : 'New Jersey Institute of Technology',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_861 = {
+   'name' : 'Lille 2 University of Health and Law',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_862 = {
+   'name' : 'Keele University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_863 = {
+   'name' : 'University of Jyv�skyl�',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_864 = {
+   'name' : 'Rochester Institute of Technology',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_865 = {
+   'name' : 'Sapporo Medical University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_866 = {
+   'name' : 'Banaras Hindu University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_867 = {
+   'name' : 'King Abdullah University of Science and Technology',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_868 = {
+   'name' : 'Northeast Normal University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_869 = {
+   'name' : 'Portland State University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_870 = {
+   'name' : 'University of Qu�bec at Montreal',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_871 = {
+   'name' : 'East China Normal University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_872 = {
+   'name' : 'University of Debrecen',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_873 = {
+   'name' : 'Loma Linda University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_874 = {
+   'name' : 'Old Dominion University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_875 = {
+   'name' : 'University of Insubria',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_876 = {
+   'name' : 'University of Nevada, Las Vegas',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_877 = {
+   'name' : 'Hong Kong Baptist University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_878 = {
+   'name' : 'University of Minho',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_879 = {
+   'name' : 'University of Messina',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_880 = {
+   'name' : 'University of Texas at Arlington',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_881 = {
+   'name' : 'University Fran�ois Rabelais, Tours',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_882 = {
+   'name' : 'UNESP, S�o Paulo State University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_883 = {
+   'name' : 'Toho University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_884 = {
+   'name' : 'Beijing University of Chemical Technology',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_885 = {
+   'name' : 'Rutgers, The State University of New Jersey - Newark',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_886 = {
+   'name' : 'Johannes Kepler University of Linz',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_887 = {
+   'name' : 'Warsaw University of Technology',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_888 = {
+   'name' : 'University of Paris 13',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_889 = {
+   'name' : 'University of Toyama',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_890 = {
+   'name' : 'University of Toledo',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_891 = {
+   'name' : 'University of Vigo',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_892 = {
+   'name' : 'University of Kent',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_893 = {
+   'name' : 'Jichi Medical University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_894 = {
+   'name' : 'Roma Tre University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_895 = {
+   'name' : 'Chung Yuan Christian University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_896 = {
+   'name' : 'University of Haifa',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_897 = {
+   'name' : '�bo Akademi University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_898 = {
+   'name' : 'Swansea University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_899 = {
+   'name' : 'China Agricultural University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_900 = {
+   'name' : 'Marche Polytechnic University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_901 = {
+   'name' : 'University of Maine, Orono',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_902 = {
+   'name' : 'Heriot-Watt University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_903 = {
+   'name' : 'Marquette University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_904 = {
+   'name' : 'Loughborough University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_905 = {
+   'name' : 'Kaiserslautern University of Technology',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_906 = {
+   'name' : 'Aston University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_907 = {
+   'name' : 'University of Girona',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_908 = {
+   'name' : 'Hasselt University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_909 = {
+   'name' : 'Nanjing University of Science and Technology',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_910 = {
+   'name' : 'University of Natural Resources and Life Sciences, Vienna',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_911 = {
+   'name' : 'University of Szeged',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_912 = {
+   'name' : 'Soochow University (Suzhou)',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_913 = {
+   'name' : 'University of the Balearic Islands',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_914 = {
+   'name' : 'Fuzhou University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_915 = {
+   'name' : 'University of Memphis',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_916 = {
+   'name' : 'San Francisco State University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_917 = {
+   'name' : 'East Carolina University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_918 = {
+   'name' : 'University of Augsburg',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_919 = {
+   'name' : 'University of Missouri�St. Louis',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_920 = {
+   'name' : 'Kyoto Prefectural University of Medicine',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_921 = {
+   'name' : 'Shanghai University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_922 = {
+   'name' : 'University of South Australia',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_923 = {
+   'name' : 'Liverpool John Moores University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_924 = {
+   'name' : 'Graz University of Technology',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_925 = {
+   'name' : 'Kitasato University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_926 = {
+   'name' : 'University of North Carolina at Charlotte',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_927 = {
+   'name' : 'G. d'Annunzio University, Chieti-Pescara',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_928 = {
+   'name' : 'University of Cantabria',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_929 = {
+   'name' : 'Miguel Hern�ndez University of Elche',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_930 = {
+   'name' : 'Donghua University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_931 = {
+   'name' : 'Comenius University in Bratislava',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_932 = {
+   'name' : 'University of Alabama in Huntsville',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_933 = {
+   'name' : 'Mie University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_934 = {
+   'name' : 'University of Stirling',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_935 = {
+   'name' : 'Hunter College',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_936 = {
+   'name' : 'Swinburne University of Technology',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_937 = {
+   'name' : 'University of Ulster',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_938 = {
+   'name' : 'University of �vry Val d'Essonne',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_939 = {
+   'name' : 'University of Salerno',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_940 = {
+   'name' : 'National University of La Plata',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_941 = {
+   'name' : 'Masaryk University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_942 = {
+   'name' : 'Yamaguchi University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_943 = {
+   'name' : 'University of Yamanashi',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_944 = {
+   'name' : 'Showa University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_945 = {
+   'name' : 'North Dakota State University - Main Campus',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_946 = {
+   'name' : 'University of North Texas, Denton',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_947 = {
+   'name' : 'University of Mississippi Medical Center',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_948 = {
+   'name' : 'University of Tehran',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_949 = {
+   'name' : 'Paul Val�ry University, Montpellier III',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_950 = {
+   'name' : 'Wuhan University of Technology',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_951 = {
+   'name' : 'University of Hyogo',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_952 = {
+   'name' : 'The Catholic University of America',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_953 = {
+   'name' : 'University of Neuch�tel',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_954 = {
+   'name' : 'National Polytechnic Institute',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_955 = {
+   'name' : 'Jikei University School of Medicine',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_956 = {
+   'name' : 'University of Valladolid',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_957 = {
+   'name' : 'University of Calabria',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_958 = {
+   'name' : 'University of L�beck',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_959 = {
+   'name' : 'Kurume University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_960 = {
+   'name' : 'Peking Union Medical College',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_961 = {
+   'name' : 'Yamagata University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_962 = {
+   'name' : 'University of C�rdoba (Spain)',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_963 = {
+   'name' : 'University of Mons',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_964 = {
+   'name' : 'Saga University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_965 = {
+   'name' : 'Clarkson University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_966 = {
+   'name' : 'University of South Alabama',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_967 = {
+   'name' : 'Inje University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_968 = {
+   'name' : 'University of Caen Lower Normandy',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_969 = {
+   'name' : 'University of Castilla�La Mancha',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_970 = {
+   'name' : 'Czech Technical University in Prague',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_971 = {
+   'name' : 'Saitama Medical University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_972 = {
+   'name' : 'Istanbul Technical University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_973 = {
+   'name' : 'Kaohsiung Medical University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_974 = {
+   'name' : 'University of Electro-Communications',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_975 = {
+   'name' : 'Yeungnam University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_976 = {
+   'name' : 'Jawaharlal Nehru Centre for Advanced Scientific Research',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_977 = {
+   'name' : 'Putra University, Malaysia',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_978 = {
+   'name' : 'Institut national des sciences Appliqu�es de Lyon',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_979 = {
+   'name' : 'University of Perpignan Via Domitia',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_980 = {
+   'name' : 'University of Miyazaki',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_981 = {
+   'name' : 'Second Military Medical University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_982 = {
+   'name' : 'Northern Arizona University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_983 = {
+   'name' : '�cole Polytechnique de Montr�al',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_984 = {
+   'name' : 'University of Salento',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_985 = {
+   'name' : 'Fukuoka University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_986 = {
+   'name' : 'Nagoya Institute of Technology',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_987 = {
+   'name' : 'Ankara University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_988 = {
+   'name' : 'Blaise Pascal University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_989 = {
+   'name' : 'University of Electronic Science and Technology of China',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_990 = {
+   'name' : 'National Sun Yat-sen University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_991 = {
+   'name' : 'University of Rouen',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}
+
+item_992 = {
+   'name' : 'Bowling Green State University',
+   'location': { 'type': 'Point', 'coordinates': [ , ]}

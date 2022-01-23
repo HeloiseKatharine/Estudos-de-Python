@@ -12,7 +12,7 @@ def get_database():
 
     client = MongoClient(CONNECTION_STRING)  #conexão com o cliente
 
-    return client["socioeconomico"]  #base de dados
+    return client["localizacao"]  #base de dados
     
 dbname = get_database()
 collection_name = dbname["venezuela2021"]

@@ -1,7 +1,7 @@
 import findspark
 from pyspark import rdd
 from pyspark.sql import Row
-
+import matplotlib.pyplot as plt 
 from pyspark.sql.types import (  IntegerType, StringType, TimestampType,StructType,  StructField, ArrayType, FloatType)
 
 findspark.init() #D:\spark-3.1.2-bin-haddoop2.7
@@ -62,3 +62,5 @@ df2 = spark.read.load('D:\scripts\/athletes.csv', format='csv', sep=',', inferSc
 #Join
 df_and_df2 = df.join(df2,  how ='left')
 df_and_df2.limit(10).show()
+
+
